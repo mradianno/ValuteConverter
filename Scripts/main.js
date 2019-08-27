@@ -5,9 +5,6 @@
 ***************************/
 function myFunction() {
 	setInterval(convert, 300);
-
-
-
 }
 
 function convert() {
